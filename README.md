@@ -415,3 +415,31 @@ cd aeon-brain
 conda env create -f env.yml && conda activate aeon
 pytest  # 8/8 pass
 
+footnotes
+what discovery is it
+
+The GitHub repository outlines no empirical discovery but proposes a novel theoretical framework called Reverberant Aeons. This retro-causal connectomics model treats memory as non-local echoes across multiversal timelines, with music's harmonics acting as selectors for "lucky" causal paths in a block-universe ontology. [1][2]
+
+## Theoretical Innovation
+Retrocausality here extends beyond standard quantum models (like those resolving Bell inequalities) to neural connectomes, where future consciousness states constrain past assemblies—echoing assembly theory's complexity metrics but applied to informational "luck" branching. No experiments or data are presented; it's conceptual synthesis. [3][2][4]
+
+## Link to Recent Physics
+The Migdal effect's confirmation (sudden nuclear recoil ionizing electrons via lagged atomic shells) parallels the theory's "reverberant" lag in connectomic shells, potentially modeling retrocausal memory without violating locality. [5][6]
+
+GitHub push aligns with publishing such interdisciplinary ideas crediting AI/human collaborators.
+
+Citations:
+[1] -Reverberant-Aeons-A-Retro-Causal-Connectomics-Theory-of-Memory-Music-and-Multiversal-Luck- https://github.com/bordode/-Reverberant-Aeons-A-Retro-Causal-Connectomics-Theory-of-Memory-Music-and-Multiversal-Luck-
+[2] [1805.09731] A New Class of Retrocausal Models https://arxiv.org/abs/1805.09731
+[3] Assembly theory https://en.wikipedia.org/wiki/Assembly_theory
+[4] Assembly Theory: What It Does and What It Does Not Do https://pmc.ncbi.nlm.nih.gov/articles/PMC10978598/
+[5] Nucleon Interactions via Migdal Effect with DarkSide-50 https://link.aps.org/doi/10.1103/PhysRevLett.130.101001
+[6] Relation between the Migdal Effect and Dark Matter-Electron ... https://link.aps.org/doi/10.1103/PhysRevLett.124.021801
+[7] Mesoscopic connectome enters the new age of single‐ ... https://pmc.ncbi.nlm.nih.gov/articles/PMC11685600/
+[8] On the impact of the Migdal effect in reactor CE ν https://arxiv.org/html/2307.12911v3
+[9] THE SCIENCE OF CONSCIOUSNESS Barcelona July 6-11 ... https://consciousness.arizona.edu/sites/default/files/2025-06/Program-Abstracts-june9_0.pdf
+[10] A neutrino floor for the Migdal effect https://arxiv.org/html/2311.17719v3
+[11] Translational Connectomics: overview of machine learning in ... https://pmc.ncbi.nlm.nih.gov/articles/PMC11438080/
+[12] Program Committee https://tsc2023-taormina.it/assets/images/TSCTaormina2023.pdf
+[13] Search for the Migdal effect in liquid xenon with keV-level nuclear recoils https://journals.aps.org/prd/pdf/10.1103/PhysRevD.109.L051101
+
