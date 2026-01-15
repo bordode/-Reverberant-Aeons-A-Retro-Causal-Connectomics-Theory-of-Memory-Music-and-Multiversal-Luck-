@@ -399,3 +399,19 @@ git tag v0.2.0
 git push origin main v0.2.0
 ```
 
+
+## One-Command Replication
+
+| Protocol | What you need | One-liner | Output |
+|----------|---------------|-----------|--------|
+| **P1** Retro QRNG + EEG | USB RNG, 2 electrodes | `python -m aeonbrain.p1_retro --carrier 7830 --duration 180` | `figures/p1_bias.png` |
+| **P2** FRB folding | none (public data) | `python -m aeonbrain.p2_aurora --frb 20200120A` | `figures/p2_phase.png` |
+| **P3** H01 connectome | 12 GB download | `dvc pull && python -m aeonbrain.p3_connectome` | `figures/p3_fft.png` |
+| **P5** Migdal–Schumann | none (public xenon) | `python -m aeonbrain.p5_migdal --dataset xenon1t` | `figures/p5_cluster.png` |
+
+```bash
+git clone https://github.com/bordode/aeon-brain
+cd aeon-brain
+conda env create -f env.yml && conda activate aeon
+pytest  # 8/8 pass
+
